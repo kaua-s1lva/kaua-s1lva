@@ -10,8 +10,5 @@
 <br>
 <br>
 
-<div align="center">
-  <a href="https://github.com/kaua-s1lva">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-s1lva&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-s1lva&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
